@@ -23,8 +23,8 @@ public class VariablesExample {
 
 //Adding code of dev 3
 //Adding dev 4
-<<<<<<< Updated upstream
+
 //Adding dev 5
-=======
+
 //Adding dev 6
->>>>>>> Stashed changes
+
