@@ -3,6 +3,7 @@ public class HelloWorld {
 		            System.out.println("Hello, World!");
 			        }
 }
+
 //dev2
 public class VariablesExample {
     public static void main(String[] args) {
@@ -19,3 +20,6 @@ public class VariablesExample {
         System.out.println("Is Active: " + isActive);
     }
 }
+
+//Adding code of dev 3
+//Adding dev 4
